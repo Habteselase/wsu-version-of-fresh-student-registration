@@ -1,0 +1,90 @@
+body{ 
+    margin: 0;
+    padding: 0;
+    background-image: url("OIP.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.head{
+    background: transparent;
+    padding: 0px;
+    margin-top: 0px;
+    box-shadow: 0 1px 10px black;
+}
+.head img{
+    border-radius: 50%;
+    width: 5px;
+    height: 5px;
+}
+#logo11{
+    width: 90px;
+    height: 80px;
+}
+ul{
+    list-style-type: none;
+
+}
+li{
+    /* text-align: right; */
+    float: right;
+}
+.list a:hover{
+    color:darkorange;
+    text-shadow: 1cm;
+}
+.list,a{
+    border: 2px solid gold;
+    border-radius: 20px;
+    display: inline;
+    text-decoration: none;
+    text-align: center;
+    padding: 10px;
+    margin: 15px;
+    
+}
+.fff1{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 280px;
+    height: 550px; 
+    float: center;
+    background: linear-gradient(to top, rgba(0,0, 0, 0.8)50%, rgb(0,0,0,0.8)50% );
+    /* position: inherit; */
+    display: flex;
+    top: -20px;
+    left: 870px;
+    padding: 40px;
+    /* margin: 100px 100px 30px 30px; */
+  margin: auto;
+  width: 50%;
+}
+.fff h1{
+    color: antiquewhite;
+    text-align: center;
+
+}
+.sign01{
+    border: 1px solid black;
+}
+form h1{
+    text-align: center;
+    color: white;
+   
+}
+.fff1 .in{
+    background: white;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid white;
+    margin-bottom: 30px;
+    font-size: 15px;
+    width: 250px;
+    height: 35px;
+    /* margin: auto; */
+} 
+label{
+ color: aliceblue;
+}

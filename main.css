@@ -1,0 +1,145 @@
+body{
+    padding: 0px;
+    margin: 0px;;
+    background-image: url("OIP.jpg");
+    background-repeat: no-repeat;
+    background-position: center;
+    background-attachment: fixed;
+    background-size: cover;
+}
+.head{
+     background: transparent;
+     padding: 0px;
+     margin-top: 0px;
+     box-shadow: 0 1px 10px black;
+     height: auto;
+     width: auto;
+}
+#logo{
+    width: 90px;
+    height: 80px;
+}
+ul{
+    list-style-type: none;
+}
+li{
+    /* text-align: right; */
+    float: right;
+}
+.list,a{
+    border: 2px solid gold;
+    border-radius: 20px;
+    display: inline;
+    text-decoration: none;
+    text-align: right;
+    padding: 10px;
+    margin: 15px;
+    
+}
+.list a:hover{
+    color:rgb(184, 30, 9);
+    text-shadow: 1cm;
+}
+.head img{
+    border-radius: 50%;
+    width: 5px;
+    height: 5px;
+}
+.txt{
+    background-color: rgb(197, 12, 12);
+    border: 2px solid black;
+    border-radius: 10px;
+    /* background-color: blueviolet; */
+    font-size: 20px;
+    font-family: Arial, Helvetica, sans-serif;
+    text-align: left;
+    margin: 30px 550px 10px 10px;
+    /* padding-top: 5px;
+    padding-left: 100px;
+    padding-right: 5px;
+    padding-bottom: 5px; */
+}
+ h1,h3{
+    text-align: center;
+    color: antiquewhite;
+}
+.txt p{
+    text-align: center;
+    color: antiquewhite;
+    float: left;
+}
+.txt{
+    float: left;
+}
+.fff{
+    border: 2px solid black;
+    border-radius: 10px;
+    width: 280px;
+    height: 320px; 
+    background: linear-gradient(to top, rgb(0,0,0,0.8)50%, rgb(0,0,0,0.8)50% );
+    position: absolute;
+    top: -20px;
+    left: 870px;
+    padding: 40px;
+    margin: 190px 100px 30px 30px;
+    float: right;
+}
+.fff h1{
+    color: antiquewhite;
+    text-align: center;
+
+}
+.fff .in{
+    background: white;
+    border-top: none;
+    border-left: none;
+    border-right: none;
+    border-bottom: 1px solid white;
+    margin-bottom: 30px;
+    font-size: 15px;
+    width: 250px;
+    height: 35px;
+} 
+.fff .btn1,.btn{ 
+    margin: 20px;
+}
+#sss{
+    color: rgb(177, 54, 6);
+    border: none;
+    text-decoration: none;
+    font-weight: bolder;
+    font-size: 20px;
+    font-family: Verdana, Tahoma, sans-serif;
+}
+#sss:hover{
+    color: greenyellow;
+}
+.LOGin{
+    width: 170px;
+    height: 40px;
+    font-size: 20px;
+    border-radius: 15px;
+    background-color:brown;
+    color: white;
+    margin-left: 45px;
+}
+.LOGin:hover{
+    background-color: rgb(11, 211, 44);
+}
+.hhh{
+    color: antiquewhite;
+    font-size: 20px;
+}
+ol{
+    text-align: center;
+}
+ol li{
+    color: antiquewhite;
+    text-align: right;
+}
+.transfor{
+    text-align: center;
+}
+#in{
+    border: none;
+}
